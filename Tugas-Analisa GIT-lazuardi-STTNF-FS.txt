@@ -1,0 +1,22 @@
+
+      Analisa GIT 
+	Git adalah system pengontrol versi distribusi, terdistribusi yang digunakan untuk mengolola perubahan dalam kode sumber perangkat lunak atau proyek lainnya. Git sanagtlah penting pagi pengembang perangkat lunak untuk berkereasi dan berkolaborasi Berikutlah analisis tentang GIT :
+1. Pengenalan dan Tujuan git
+Git diciptakan oleh Linus Torvalds pada tahun 2005 untuk mengatasi masalah dalam pengembang kernel Linux. Tujuan utama Git adalah untuk mengatur perubahan dalam kode sumber secara efisien, untuk mendukung pengembang berkolaborasi dan mengelola versi sebagai komponen perangkat lunka
+2. Sistem Pengomtrol Versi Terdistribusi (VCS)
+Git menggunakan pendekatan terdistribusi, di mana setiap anggota tim memiliki Salinan lengkap dari repositori. Ini memungkinkan penembang mengerjakan secara mandiri dan melakukan secara local sebelum menggabungkan perubahan ke pusat repositori.
+3. Komponen Utama
+* Repositori: Tempat untuk menyimpan semua informasi dan Riwayat perubahan
+* Commit: Snapshot dari perubahan yang dilakukan dalam repositori
+* Branch: Cabang independent dalam Riwayat perubahan yang memungkinkan pengembang bekerja pada fitur atau perbaikan tertentu.
+* Merge: Menggabungkan perubahan dari satu cabang ke cabang yang lain.
+* Pull Request: Permintaan untuk menggabungkan perubahan dari cabang lain ke cabang utama
+* Conflict Resolution: Proses menyelesaikan konflik yang muncul saat menggabungkan perubahan.
+4. Keuntungan Git:
+* Riwayat perubahan: Git mencatat setiap perubahan kode yang pernah dilalukan pada kode, memungkinkan pemahaman mandalam tentang evolusi proyek.
+* Kerja Kolaboratif: Tim dapat bekerja secara bersamaan di berbagai fitur atau perubahan tanpa mengganggu satu sama lain.
+* Pengembang Fitur Terisolasi: Branching memungkinkan pengembang untuk bekerja pada fitur baru tanapa mengganggu kode yang lain.
+* Pemulihan Mudah: Jika kesalahan terjadi, pengembang dapat Kembali ke titik sebelumnya dalam Riwayat perubahan.
+* Skabilitas: Git cocok untuk proyek kecil hingga besar dan kompleks.
+
+Secara keseluruhan, Git adalah alat penting dalam pengembangan perangkat lunak modern yang membantu pengembang mengelola perubahan, bekerja secara kolaboratif, dan mengamankan evolusi proyek.
